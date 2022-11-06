@@ -1,9 +1,5 @@
 # Hello VitePress
-<script setup>
-import hello from './hello.vue'
-</script>
 
-<hello/>
 # Home
 
 ...
